@@ -7,7 +7,7 @@
 
 <h2 align="center">
   The Open Information Layer
-<h2>
+</h2>
 
 <p align="center">
   RSS3 structures open information for the next Twitter, Google, and OpenAI
