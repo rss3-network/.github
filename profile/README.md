@@ -10,7 +10,7 @@
 </h2>
 
 <p align="center">
-  RSS3 structures open information for the next Twitter, Google, and OpenAI
+  RSS3 structures Open Information for the next Twitter, Google, and OpenAI.
 </p>
 
 <div align="center">
