@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rss3-network/.github/main/content/logo-dark.svg">
-    <img alt="rss3 logo" src="https://raw.githubusercontent.com/rss3-network/.github/main/content/logo.svg" width="auto" height="60">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rss3-network/.github/main/content/logo-white.svg">
+    <img alt="rss3 logo" src="https://raw.githubusercontent.com/rss3-network/.github/main/content/logo-blue.svg" width="auto" height="60">
   </picture>
 </p>
 
