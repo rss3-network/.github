@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://rss3.io"><b>RSS3</b></a> –
-  <a href="https://docs.rss3.io"><b>API Docs</b></a>
+  <a href="https://docs.rss3.io"><b>Documentation</b></a>
 </div>
 
 <div align="center">
